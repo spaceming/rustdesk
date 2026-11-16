@@ -1,0 +1,230 @@
+{
+  "checks": {
+    "baseline-before": true,
+    "baseline-inside": true,
+    "baseline-inside-host-really-hidden": true,
+    "baseline-after": true,
+    "baseline-start-hidden": true,
+    "baseline-start-hidden-host-really-hidden": true,
+    "fixed-before": true,
+    "fixed-inside": true,
+    "fixed-inside-host-really-hidden": true,
+    "fixed-after": true,
+    "fixed-start-hidden": true,
+    "fixed-start-hidden-host-really-hidden": true
+  },
+  "captures": {
+    "baseline-before": {
+      "id": 1794832185761,
+      "ok": true,
+      "cursor": {
+        "height": 16,
+        "id": 74,
+        "label": "baseline-before",
+        "visible_pixels": 94,
+        "width": 16
+      },
+      "host_cursor": {
+        "height": 16,
+        "id": 2,
+        "label": "baseline-before",
+        "visible_pixels": 94,
+        "width": 10
+      },
+      "host_pointer": {
+        "root_x": 62,
+        "root_y": 622
+      }
+    },
+    "baseline-inside": {
+      "id": 1794832188747,
+      "ok": true,
+      "cursor": {
+        "height": 1,
+        "id": 75,
+        "label": "baseline-inside",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "host_cursor": {
+        "height": 1,
+        "id": 7,
+        "label": "baseline-inside",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "host_pointer": {
+        "root_x": 400,
+        "root_y": 292
+      }
+    },
+    "baseline-after": {
+      "id": 1794832190504,
+      "ok": true,
+      "cursor": {
+        "height": 16,
+        "id": 74,
+        "label": "baseline-after",
+        "visible_pixels": 94,
+        "width": 16
+      },
+      "host_cursor": {
+        "height": 16,
+        "id": 2,
+        "label": "baseline-after",
+        "visible_pixels": 94,
+        "width": 10
+      },
+      "host_pointer": {
+        "root_x": 62,
+        "root_y": 622
+      }
+    },
+    "baseline-start-hidden": {
+      "id": 1794832384140,
+      "ok": true,
+      "cursor": {
+        "height": 1,
+        "id": 82,
+        "label": "baseline-start-hidden",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "host_cursor": {
+        "height": 1,
+        "id": 11,
+        "label": "baseline-start-hidden",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "host_pointer": {
+        "root_x": 400,
+        "root_y": 300
+      }
+    },
+    "fixed-before": {
+      "id": 1794832254344,
+      "ok": true,
+      "cursor": {
+        "height": 16,
+        "id": 77,
+        "label": "fixed-before",
+        "visible_pixels": 94,
+        "width": 16
+      },
+      "host_cursor": {
+        "height": 16,
+        "id": 2,
+        "label": "fixed-before",
+        "visible_pixels": 94,
+        "width": 10
+      },
+      "host_pointer": {
+        "root_x": 62,
+        "root_y": 622
+      }
+    },
+    "fixed-inside": {
+      "id": 1794832257296,
+      "ok": true,
+      "cursor": {
+        "height": 16,
+        "id": 78,
+        "label": "fixed-inside",
+        "visible_pixels": 176,
+        "width": 16
+      },
+      "host_cursor": {
+        "height": 1,
+        "id": 9,
+        "label": "fixed-inside",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "host_pointer": {
+        "root_x": 400,
+        "root_y": 291
+      }
+    },
+    "fixed-after": {
+      "id": 1794832259021,
+      "ok": true,
+      "cursor": {
+        "height": 16,
+        "id": 77,
+        "label": "fixed-after",
+        "visible_pixels": 94,
+        "width": 16
+      },
+      "host_cursor": {
+        "height": 16,
+        "id": 2,
+        "label": "fixed-after",
+        "visible_pixels": 94,
+        "width": 10
+      },
+      "host_pointer": {
+        "root_x": 62,
+        "root_y": 621
+      }
+    },
+    "fixed-start-hidden": {
+      "id": 1794832312832,
+      "ok": true,
+      "cursor": {
+        "height": 32,
+        "id": 80,
+        "label": "fixed-start-hidden",
+        "visible_pixels": 224,
+        "width": 32
+      },
+      "host_cursor": {
+        "height": 1,
+        "id": 11,
+        "label": "fixed-start-hidden",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "host_pointer": {
+        "root_x": 400,
+        "root_y": 300
+      }
+    }
+  },
+  "controller": {
+    "url": "https://github.com/rustdesk/rustdesk/releases/download/1.5.3/rustdesk-1.5.3-x86_64.deb",
+    "sha256": "81096d2f65fd43352540c351bca15bb0712a2a6f9efa4c95e9fff25cb97b3b81"
+  },
+  "videos": {
+    "baseline": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 960,
+          "r_frame_rate": "10/1"
+        }
+      ],
+      "format": {
+        "duration": "10.000000"
+      }
+    },
+    "fixed": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1280,
+          "height": 960,
+          "r_frame_rate": "10/1"
+        }
+      ],
+      "format": {
+        "duration": "10.000000"
+      }
+    }
+  }
+}

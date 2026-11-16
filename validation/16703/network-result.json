@@ -1,0 +1,105 @@
+{
+  "baseline": {
+    "before": [
+      {
+        "event": "login",
+        "response": "LoginResponse { enable_trusted_devices: false, trusted_device_v2_supported: false, trusted_device_v2_token: b\"\", union: Some(PeerInfo(PeerInfo { username: \"\", hostname: \"ba5956d30149\", platform: \"Linux\", displays: [DisplayInfo { x: 0, y: 0, width: 1024, height: 768, name: \"screen\", online: true, cursor_embedded: false, original_resolution: MessageField(Some(Resolution { width: 1024, height: 768, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), scale: 1.0, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }], current_display: 0, sas_enabled: false, version: \"1.5.3\", features: MessageField(Some(Features { privacy_mode: false, terminal: true, port_forward_mux: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), encoding: MessageField(Some(SupportedEncoding { h264: false, h265: false, vp8: true, av1: true, i444: MessageField(Some(CodecAbility { vp8: false, vp9: true, av1: true, h264: false, h265: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), resolutions: MessageField(Some(SupportedResolutions { resolutions: [], special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), platform_additions: \"{\\\"support_view_camera\\\":true}\", windows_sessions: MessageField(None), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }"
+      },
+      {
+        "event": "cursor",
+        "height": 16,
+        "id": 4143889657812082,
+        "visible_pixels": 86,
+        "width": 9
+      }
+    ],
+    "inside": [
+      {
+        "event": "cursor",
+        "height": 1,
+        "id": 1386979131403465,
+        "visible_pixels": 0,
+        "width": 1
+      }
+    ],
+    "after": [
+      {
+        "event": "cursor",
+        "height": 16,
+        "id": 6437670942130592,
+        "visible_pixels": 94,
+        "width": 10
+      }
+    ],
+    "snapshot_while_hidden": [
+      {
+        "event": "login",
+        "response": "LoginResponse { enable_trusted_devices: false, trusted_device_v2_supported: false, trusted_device_v2_token: b\"\", union: Some(PeerInfo(PeerInfo { username: \"\", hostname: \"ba5956d30149\", platform: \"Linux\", displays: [DisplayInfo { x: 0, y: 0, width: 1024, height: 768, name: \"screen\", online: true, cursor_embedded: false, original_resolution: MessageField(Some(Resolution { width: 1024, height: 768, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), scale: 1.0, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }], current_display: 0, sas_enabled: false, version: \"1.5.3\", features: MessageField(Some(Features { privacy_mode: false, terminal: true, port_forward_mux: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), encoding: MessageField(Some(SupportedEncoding { h264: false, h265: false, vp8: true, av1: true, i444: MessageField(Some(CodecAbility { vp8: false, vp9: true, av1: true, h264: false, h265: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), resolutions: MessageField(Some(SupportedResolutions { resolutions: [], special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), platform_additions: \"{\\\"support_view_camera\\\":true}\", windows_sessions: MessageField(None), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }"
+      },
+      {
+        "event": "cursor",
+        "height": 1,
+        "id": 1386979131403465,
+        "visible_pixels": 0,
+        "width": 1
+      }
+    ],
+    "server_starts_hidden": [
+      {
+        "event": "login",
+        "response": "LoginResponse { enable_trusted_devices: false, trusted_device_v2_supported: false, trusted_device_v2_token: b\"\", union: Some(PeerInfo(PeerInfo { username: \"\", hostname: \"ba5956d30149\", platform: \"Linux\", displays: [DisplayInfo { x: 0, y: 0, width: 1024, height: 768, name: \"screen\", online: true, cursor_embedded: false, original_resolution: MessageField(Some(Resolution { width: 1024, height: 768, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), scale: 1.0, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }], current_display: 0, sas_enabled: false, version: \"1.5.3\", features: MessageField(Some(Features { privacy_mode: false, terminal: true, port_forward_mux: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), encoding: MessageField(Some(SupportedEncoding { h264: false, h265: false, vp8: true, av1: true, i444: MessageField(Some(CodecAbility { vp8: false, vp9: true, av1: true, h264: false, h265: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), resolutions: MessageField(Some(SupportedResolutions { resolutions: [], special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), platform_additions: \"{\\\"support_view_camera\\\":true}\", windows_sessions: MessageField(None), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }"
+      },
+      {
+        "event": "cursor",
+        "height": 1,
+        "id": 1386979131403465,
+        "visible_pixels": 0,
+        "width": 1
+      }
+    ]
+  },
+  "fixed": {
+    "before": [
+      {
+        "event": "login",
+        "response": "LoginResponse { enable_trusted_devices: false, trusted_device_v2_supported: false, trusted_device_v2_token: b\"\", union: Some(PeerInfo(PeerInfo { username: \"\", hostname: \"ba5956d30149\", platform: \"Linux\", displays: [DisplayInfo { x: 0, y: 0, width: 1024, height: 768, name: \"screen\", online: true, cursor_embedded: false, original_resolution: MessageField(Some(Resolution { width: 1024, height: 768, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), scale: 1.0, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }], current_display: 0, sas_enabled: false, version: \"1.5.3\", features: MessageField(Some(Features { privacy_mode: false, terminal: true, port_forward_mux: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), encoding: MessageField(Some(SupportedEncoding { h264: false, h265: false, vp8: true, av1: true, i444: MessageField(Some(CodecAbility { vp8: false, vp9: true, av1: true, h264: false, h265: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), resolutions: MessageField(Some(SupportedResolutions { resolutions: [], special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), platform_additions: \"{\\\"support_view_camera\\\":true}\", windows_sessions: MessageField(None), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }"
+      },
+      {
+        "event": "cursor",
+        "height": 16,
+        "id": 4143889657812082,
+        "visible_pixels": 86,
+        "width": 9
+      }
+    ],
+    "inside": [],
+    "after": [
+      {
+        "event": "cursor",
+        "height": 16,
+        "id": 6437670942130592,
+        "visible_pixels": 94,
+        "width": 10
+      }
+    ],
+    "snapshot_while_hidden": [
+      {
+        "event": "login",
+        "response": "LoginResponse { enable_trusted_devices: false, trusted_device_v2_supported: false, trusted_device_v2_token: b\"\", union: Some(PeerInfo(PeerInfo { username: \"\", hostname: \"ba5956d30149\", platform: \"Linux\", displays: [DisplayInfo { x: 0, y: 0, width: 1024, height: 768, name: \"screen\", online: true, cursor_embedded: false, original_resolution: MessageField(Some(Resolution { width: 1024, height: 768, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), scale: 1.0, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }], current_display: 0, sas_enabled: false, version: \"1.5.3\", features: MessageField(Some(Features { privacy_mode: false, terminal: true, port_forward_mux: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), encoding: MessageField(Some(SupportedEncoding { h264: false, h265: false, vp8: true, av1: true, i444: MessageField(Some(CodecAbility { vp8: false, vp9: true, av1: true, h264: false, h265: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), resolutions: MessageField(Some(SupportedResolutions { resolutions: [], special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), platform_additions: \"{\\\"support_view_camera\\\":true}\", windows_sessions: MessageField(None), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }"
+      },
+      {
+        "event": "cursor",
+        "height": 16,
+        "id": 4143889657812082,
+        "visible_pixels": 86,
+        "width": 9
+      }
+    ],
+    "server_starts_hidden": [
+      {
+        "event": "login",
+        "response": "LoginResponse { enable_trusted_devices: false, trusted_device_v2_supported: false, trusted_device_v2_token: b\"\", union: Some(PeerInfo(PeerInfo { username: \"\", hostname: \"ba5956d30149\", platform: \"Linux\", displays: [DisplayInfo { x: 0, y: 0, width: 1024, height: 768, name: \"screen\", online: true, cursor_embedded: false, original_resolution: MessageField(Some(Resolution { width: 1024, height: 768, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), scale: 1.0, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }], current_display: 0, sas_enabled: false, version: \"1.5.3\", features: MessageField(Some(Features { privacy_mode: false, terminal: true, port_forward_mux: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), encoding: MessageField(Some(SupportedEncoding { h264: false, h265: false, vp8: true, av1: true, i444: MessageField(Some(CodecAbility { vp8: false, vp9: true, av1: true, h264: false, h265: false, special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), resolutions: MessageField(Some(SupportedResolutions { resolutions: [], special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), platform_additions: \"{\\\"support_view_camera\\\":true}\", windows_sessions: MessageField(None), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } })), special_fields: SpecialFields { unknown_fields: UnknownFields { fields: None }, cached_size: CachedSize { size: 0 } } }"
+      }
+    ]
+  }
+}

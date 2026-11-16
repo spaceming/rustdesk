@@ -1,0 +1,333 @@
+
+(rustdesk:3514): dbind-WARNING **: 12:28:16.953: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(rustdesk:3514): Atk-CRITICAL **: 12:28:17.091: atk_socket_embed: assertion 'plug_id != NULL' failed
+Try setting transparent
+flutter: launch args: [--connect, 127.0.0.1:21183, --password, local-only-16703-validation]
+flutter: initializing FFI main
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:main,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler check_software_update_finish check_software_update_finish
+flutter: registerEventHandler callback_query_onlines AllPeersLoader
+flutter: No window position saved, trying to center the window.
+flutter: handled by uni links: false
+
+(rustdesk:3514): Atk-CRITICAL **: 12:28:17.680: atk_socket_embed: assertion 'plug_id != NULL' failed
+flutter: [MultiWindowHandler] active window changed: {1}
+flutter: launch args: [multi_window, 1, {"type":1,"id":"127.0.0.1:21183","password":"local-only-16703-validation","forceRelay":null}]
+flutter: initializing FFI remote
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:remote,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler theme theme
+flutter: registerEventHandler language language
+flutter: No window position saved, trying to center the window.
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: No window position saved, trying to center the window.
+flutter: onFocusChange(window active:true) false
+flutter: onFocusChange(window active:true) true
+flutter: create pixelbuffer texture: peerId: 127.0.0.1:21183 display:0, textureId:383430656, texturePtr:383430656
+[ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
+#0      DBusClient._callMethod (package:dbus/src/dbus_client.dart:1124)
+<asynchronous suspension>
+#1      DBusClient.callMethod (package:dbus/src/dbus_client.dart:625)
+<asynchronous suspension>
+#2      WakelockPlusLinuxPlugin.toggle.<anonymous closure> (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:47)
+<asynchronous suspension>
+#3      WakelockPlusLinuxPlugin.toggle (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:40)
+<asynchronous suspension>
+
+flutter: onFocusChange(window active:true) false
+flutter: EventToUI_Texture display:0, gpuTexture:false
+flutter: setTextureType: display=0, isGpuTexture=false
+flutter: CustomTouchGestureRecognizer init
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: Register custom cursor with key 1_127.0.0.1:21183_6437670942130592_100000000_160000000_10_16 (1.0,1.0)
+flutter: isMaximized false
+flutter: Saving frame: 1: 1300.0/740.0, offset:0.0/120.0, isMaximized:false, isFullscreen:false
+flutter: [Remote Page] call get_remote_list with args null from window 1
+flutter: Register custom cursor with key 1_127.0.0.1:21183_1386979131403465_10000000_10000000_1_1 (0.0,0.0)
+
+(rustdesk:4445): dbind-WARNING **: 12:30:06.974: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(rustdesk:4445): Atk-CRITICAL **: 12:30:07.040: atk_socket_embed: assertion 'plug_id != NULL' failed
+Try setting transparent
+flutter: launch args: [--connect, 127.0.0.1:21183, --password, local-only-16703-validation]
+flutter: initializing FFI main
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:main,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler check_software_update_finish check_software_update_finish
+flutter: registerEventHandler callback_query_onlines AllPeersLoader
+flutter: No window position saved, trying to center the window.
+flutter: handled by uni links: false
+
+(rustdesk:4445): Atk-CRITICAL **: 12:30:07.218: atk_socket_embed: assertion 'plug_id != NULL' failed
+flutter: [MultiWindowHandler] active window changed: {1}
+flutter: launch args: [multi_window, 1, {"type":1,"id":"127.0.0.1:21183","password":"local-only-16703-validation","forceRelay":null}]
+flutter: initializing FFI remote
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:remote,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler theme theme
+flutter: registerEventHandler language language
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: restore lpos: 1300.0/740.0, offset:0.0/120.0, isMaximized: false, isFullscreen: false
+[ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
+#0      DBusClient._callMethod (package:dbus/src/dbus_client.dart:1124)
+<asynchronous suspension>
+#1      DBusClient.callMethod (package:dbus/src/dbus_client.dart:625)
+<asynchronous suspension>
+#2      WakelockPlusLinuxPlugin.toggle.<anonymous closure> (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:47)
+<asynchronous suspension>
+#3      WakelockPlusLinuxPlugin.toggle (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:40)
+<asynchronous suspension>
+
+flutter: restore lpos: 1300.0/740.0, offset:0.0/120.0, isMaximized: false, isFullscreen: false
+flutter: create pixelbuffer texture: peerId: 127.0.0.1:21183 display:0, textureId:1101149504, texturePtr:1101149504
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) false
+flutter: EventToUI_Texture display:0, gpuTexture:false
+flutter: setTextureType: display=0, isGpuTexture=false
+flutter: CustomTouchGestureRecognizer init
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: Register custom cursor with key 1_127.0.0.1:21183_6437670942130592_100000000_160000000_10_16 (1.0,1.0)
+flutter: isMaximized false
+flutter: Saving frame: 1: 1300.0/740.0, offset:0.0/120.0, isMaximized:false, isFullscreen:false
+flutter: [Remote Page] call get_remote_list with args null from window 1
+flutter: Register custom cursor with key 1_127.0.0.1:21183_3540814733515180_160000000_160000000_16_16 (7.0,7.0)
+
+(rustdesk:5190): dbind-WARNING **: 12:31:36.132: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(rustdesk:5190): Atk-CRITICAL **: 12:31:36.200: atk_socket_embed: assertion 'plug_id != NULL' failed
+Try setting transparent
+flutter: launch args: [--connect, 127.0.0.1:21183, --password, local-only-16703-validation]
+flutter: initializing FFI main
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:main,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler check_software_update_finish check_software_update_finish
+flutter: registerEventHandler callback_query_onlines AllPeersLoader
+flutter: No window position saved, trying to center the window.
+flutter: handled by uni links: false
+
+(rustdesk:5190): Atk-CRITICAL **: 12:31:36.373: atk_socket_embed: assertion 'plug_id != NULL' failed
+flutter: [MultiWindowHandler] active window changed: {1}
+flutter: launch args: [multi_window, 1, {"type":1,"id":"127.0.0.1:21183","password":"local-only-16703-validation","forceRelay":null}]
+flutter: initializing FFI remote
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:remote,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler theme theme
+flutter: registerEventHandler language language
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: restore lpos: 1300.0/740.0, offset:0.0/120.0, isMaximized: false, isFullscreen: false
+[ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
+#0      DBusClient._callMethod (package:dbus/src/dbus_client.dart:1124)
+<asynchronous suspension>
+#1      DBusClient.callMethod (package:dbus/src/dbus_client.dart:625)
+<asynchronous suspension>
+#2      WakelockPlusLinuxPlugin.toggle.<anonymous closure> (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:47)
+<asynchronous suspension>
+#3      WakelockPlusLinuxPlugin.toggle (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:40)
+<asynchronous suspension>
+
+flutter: restore lpos: 1300.0/740.0, offset:0.0/120.0, isMaximized: false, isFullscreen: false
+flutter: create pixelbuffer texture: peerId: 127.0.0.1:21183 display:0, textureId:133157343664160, texturePtr:133157343664160
+flutter: onFocusChange(window active:true) false
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: onFocusChange(window active:true) false
+flutter: EventToUI_Texture display:0, gpuTexture:false
+flutter: setTextureType: display=0, isGpuTexture=false
+flutter: CustomTouchGestureRecognizer init
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: Register custom cursor with key 1__-1_320000000_320000000_32_32 (16.0,16.0)
+flutter: isMaximized false
+flutter: Saving frame: 1: 1300.0/740.0, offset:0.0/120.0, isMaximized:false, isFullscreen:false
+flutter: [Remote Page] call get_remote_list with args null from window 1
+
+(rustdesk:5531): dbind-WARNING **: 12:32:18.324: AT-SPI: Error retrieving accessibility bus address: org.freedesktop.DBus.Error.ServiceUnknown: The name org.a11y.Bus was not provided by any .service files
+
+(rustdesk:5531): Atk-CRITICAL **: 12:32:18.393: atk_socket_embed: assertion 'plug_id != NULL' failed
+Try setting transparent
+flutter: launch args: [--connect, 127.0.0.1:21183, --password, local-only-16703-validation]
+flutter: initializing FFI main
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:main,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler check_software_update_finish check_software_update_finish
+flutter: registerEventHandler callback_query_onlines AllPeersLoader
+flutter: No window position saved, trying to center the window.
+flutter: handled by uni links: false
+
+(rustdesk:5531): Atk-CRITICAL **: 12:32:18.580: atk_socket_embed: assertion 'plug_id != NULL' failed
+flutter: [MultiWindowHandler] active window changed: {1}
+flutter: launch args: [multi_window, 1, {"type":1,"id":"127.0.0.1:21183","password":"local-only-16703-validation","forceRelay":null}]
+flutter: initializing FFI remote
+flutter: Failed to get documents directory: MissingPlatformDirectoryException(Unable to get application documents directory)
+flutter: _appType:remote,info1-id:e1b2abf6443e42c88711f8c26f22b52a,info2-name:Debian GNU/Linux,dir:
+flutter: _globalFFI init
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: _globalFFI init end
+flutter: registerEventHandler theme theme
+flutter: registerEventHandler language language
+flutter: registerEventHandler callback_query_onlines address book peer
+flutter: registerEventHandler load_address_book_peers address book peer
+flutter: registerEventHandler callback_query_onlines group peer
+flutter: registerEventHandler load_group_peers group peer
+flutter: registerEventHandler callback_query_onlines recent peer
+flutter: registerEventHandler load_recent_peers recent peer
+flutter: registerEventHandler callback_query_onlines fav peer
+flutter: registerEventHandler load_fav_peers fav peer
+flutter: registerEventHandler callback_query_onlines discovered peer
+flutter: registerEventHandler load_lan_peers discovered peer
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: restore lpos: 1300.0/740.0, offset:0.0/120.0, isMaximized: false, isFullscreen: false
+[ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.ScreenSaver was not provided by any .service files
+#0      DBusClient._callMethod (package:dbus/src/dbus_client.dart:1124)
+<asynchronous suspension>
+#1      DBusClient.callMethod (package:dbus/src/dbus_client.dart:625)
+<asynchronous suspension>
+#2      WakelockPlusLinuxPlugin.toggle.<anonymous closure> (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:47)
+<asynchronous suspension>
+#3      WakelockPlusLinuxPlugin.toggle (package:wakelock_plus/src/wakelock_plus_linux_plugin.dart:40)
+<asynchronous suspension>
+
+flutter: restore lpos: 1300.0/740.0, offset:0.0/120.0, isMaximized: false, isFullscreen: false
+flutter: create pixelbuffer texture: peerId: 127.0.0.1:21183 display:0, textureId:132529940605248, texturePtr:132529940605248
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) false
+flutter: EventToUI_Texture display:0, gpuTexture:false
+flutter: setTextureType: display=0, isGpuTexture=false
+flutter: CustomTouchGestureRecognizer init
+flutter: CustomTouchGestureRecognizer init
+flutter: onFocusChange(window active:true) true
+flutter: Register custom cursor with key 1_127.0.0.1:21183_1386979131403465_10000000_10000000_1_1 (0.0,0.0)
+flutter: isMaximized false
+flutter: Saving frame: 1: 1300.0/740.0, offset:0.0/120.0, isMaximized:false, isFullscreen:false
+flutter: [Remote Page] call get_remote_list with args null from window 1

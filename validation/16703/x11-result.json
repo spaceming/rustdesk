@@ -1,0 +1,90 @@
+{
+  "results": [
+    {
+      "label": "outside-before",
+      "baseline": {
+        "height": 16,
+        "id": 4,
+        "label": "outside-before",
+        "visible_pixels": 94,
+        "width": 10
+      },
+      "fixed": {
+        "height": 16,
+        "id": 4,
+        "label": "outside-before",
+        "visible_pixels": 94,
+        "width": 10
+      }
+    },
+    {
+      "label": "inside-hidden-vnc",
+      "baseline": {
+        "height": 1,
+        "id": 7,
+        "label": "inside-hidden-vnc",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "fixed": {
+        "id": null,
+        "label": "inside-hidden-vnc"
+      }
+    },
+    {
+      "label": "starts-hidden",
+      "baseline": {
+        "height": 1,
+        "id": 7,
+        "label": "starts-hidden",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "fixed": {
+        "id": null,
+        "label": "starts-hidden"
+      }
+    },
+    {
+      "label": "outside-after",
+      "baseline": {
+        "height": 16,
+        "id": 4,
+        "label": "outside-after",
+        "visible_pixels": 94,
+        "width": 10
+      },
+      "fixed": {
+        "height": 16,
+        "id": 4,
+        "label": "outside-after",
+        "visible_pixels": 94,
+        "width": 10
+      }
+    },
+    {
+      "label": "inside-hidden-vnc-again",
+      "baseline": {
+        "height": 1,
+        "id": 9,
+        "label": "inside-hidden-vnc-again",
+        "visible_pixels": 0,
+        "width": 1
+      },
+      "fixed": {
+        "id": null,
+        "label": "inside-hidden-vnc-again"
+      }
+    }
+  ],
+  "checks": {
+    "baseline-visible-before": true,
+    "baseline-sends-transparent-image-in-vnc": true,
+    "fixed-skips-transparent-image-in-vnc": true,
+    "baseline-starts-with-transparent-image": true,
+    "fixed-starts-hidden-with-no-shape": true,
+    "fixed-normal-shape-restored": true,
+    "normal-shape-unchanged": true,
+    "repeat-hidden-transition": true
+  }
+}

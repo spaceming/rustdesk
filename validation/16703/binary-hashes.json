@@ -1,0 +1,26 @@
+{
+  "cursor-probe-baseline": {
+    "size": 11366456,
+    "sha256": "978df1f93e1661bc67cf1227c7005841c498df47a17d2f39e03788ebe8b35540"
+  },
+  "cursor-probe-fixed": {
+    "size": 11368984,
+    "sha256": "54c006fd83f57acd9670734955dc083af9b40ff2dd8da158036774ce18407e64"
+  },
+  "cursor-network-baseline": {
+    "size": 105215688,
+    "sha256": "062358dbf47cb5aed23fff13c979aeec112974c81d409bfe36f5596bbc7538fd"
+  },
+  "cursor-network-fixed": {
+    "size": 105218152,
+    "sha256": "8f31b88a144183a0fb47e12adf2a266e78178d3b2ec7f14f91e9982db010b586"
+  },
+  "rustdesk-baseline": {
+    "size": 150058112,
+    "sha256": "4a0e60c9221e7a1d7acfb8327b28fc024a5a7d635dfcaa6993f33603f0ce80d8"
+  },
+  "rustdesk-fixed": {
+    "size": 150059896,
+    "sha256": "4124b71041ac6d23a1ac1f8e3c3a433894ba06a47d2dbeac79e9dfc3f6782aa4"
+  }
+}

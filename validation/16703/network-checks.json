@@ -1,0 +1,14 @@
+{
+  "baseline-login-succeeds": true,
+  "baseline-initial-visible": true,
+  "baseline-new-visible-shape-after-exit": true,
+  "baseline-transmits-transparent": true,
+  "baseline-hidden-snapshot-transparent": true,
+  "baseline-hidden-start-transparent": true,
+  "fixed-login-succeeds": true,
+  "fixed-initial-visible": true,
+  "fixed-new-visible-shape-after-exit": true,
+  "fixed-retains-existing-shape": true,
+  "fixed-hidden-snapshot-visible": true,
+  "fixed-hidden-start-does-not-blank-default": true
+}
